@@ -1,4 +1,6 @@
-👋 Hey there!  I'm **Farah**, Based Dublin, Ireland and i am an enthusiastic newcomer to the exciting world of DevOps. I may be new, but I'm passionate about the endless possibilities of automating and optimizing software development and deployement processes.
+👋 Hey there!  
+    I'm **Farah**, Based in **Dublin, Ireland** and i am an enthusiastic newcomer to the exciting world of DevOps/CloudOps. I may be new, but I'm passionate about the 
+    endless possibilities of automating and optimizing software development and deployement processes.
 
 
 💻 My journey:
