@@ -25,8 +25,8 @@
 - Actively seeking opportunities (internships or junior cloudops/devops) to expand my cloud expertise
 
 🌐 Connect with Me:
-📧 Email: abdifitah.a.f@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/abdifitahfarah/
-🌐 GitHub: https://github.com/Fitah-farah/
+- 📧 Email: abdifitah.a.f@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/abdifitahfarah/
+- 🌐 GitHub: https://github.com/Fitah-farah/
 
 Let's embark on this exciting DevOps journey together, one commit at a time! 🚀💡
