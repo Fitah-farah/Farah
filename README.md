@@ -1,16 +1,16 @@
 👋 Hey there!  
-    I'm **Farah**, Based in **Dublin, Ireland** and i am an enthusiastic newcomer to the exciting world of DevOps/CloudOps. I may be new, but I'm passionate about the 
-    endless possibilities of automating and optimizing software development and deployement processes.
+I'm **Farah**, Based in **Dublin, Ireland** with Bachelor's degree of computer science, COMPTIA trefacta(A+ N+ s+) and azure (Az-900) certified. i am an enthusiastic the exciting world of DevOps and Cloud.
+I'm passionate about the endless possibilities of automating and optimizing software development and               deployment processes.
 
 
 💻 My journey:
-- Exploring the foundations of DevOps and its core principles
-- Eagerly learning Infrastructure as Code (IaC) with Terraform
+- Exploring DevOps and its core principles
+- infrastructure as Code (IaC) with Terraform
 - CI/CD pipelines using Jenkins, GitLab CI/CD, or GitHub Actions
 - Containerization with Docker and container orchestration with Kubernetes
 - Configuration management with Ansible
 - Monitoring and Logging using Prometheus, Grafana, and ELK Stack
-- Cloud platforms like Azure, and AWS. 
+- AWS and azure. 
 - Version control with Git
 
 🚀 What I'm Working On:
